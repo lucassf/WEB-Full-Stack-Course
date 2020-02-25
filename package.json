@@ -1,0 +1,29 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "directory for the web full stack development course",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucassf/WEB-Full-Stack-Course.git"
+  },
+  "author": "Lucas Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucassf/WEB-Full-Stack-Course/issues"
+  },
+  "homepage": "https://github.com/lucassf/WEB-Full-Stack-Course#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.4.1",
+    "popper.js": "^1.14.3"
+  }
+}
