@@ -32,6 +32,15 @@ $carousel-item-height: 300px;
     color: floralwhite;
 }
 
+.modal-header {
+    background-color: $background-dark;
+    color: floralwhite;
+}
+
+.modal-body {
+    background-color: $background-pale;
+}
+
 address {
     font-size: 80%;
     margin: 0px;

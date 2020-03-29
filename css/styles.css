@@ -19,6 +19,13 @@
   background: #9575CD;
   color: floralwhite; }
 
+.modal-header {
+  background-color: #512DA8;
+  color: floralwhite; }
+
+.modal-body {
+  background-color: #D1C4E9; }
+
 address {
   font-size: 80%;
   margin: 0px;
